@@ -9,7 +9,7 @@ import java.util.List;
 
 /**
  *
- * @author susmita
+ * @author susmita bhaduri
  */
 public class ListScripData {
     private List<ScripData> scripdatalist;
